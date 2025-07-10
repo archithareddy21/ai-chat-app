@@ -1,0 +1,11 @@
+# Ignore .env file containing sensitive data (e.g., API keys)
+.env
+
+# Ignore node_modules folder (dependencies)
+node_modules/
+
+# Ignore build output
+build/
+
+# Ignore log files
+*.log
